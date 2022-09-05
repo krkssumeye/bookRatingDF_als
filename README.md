@@ -1,7 +1,7 @@
 
 <h1>bySpark book rating database ALS<h1>
 
-Train ve Test data seti oluşturarak ALS gerçekleştirdim. DataBricks üzerinden spark kullanarak kod satırlarımı yazdım. Kod satırlarının yanında gerekli açıklamalr yapılmıştır.
+<h2>Train ve Test data seti oluşturarak ALS gerçekleştirdim. DataBricks üzerinden spark kullanarak kod satırlarımı yazdım. Kod satırlarının yanında gerekli açıklamalr yapılmıştır.<h2>
 
 
 <h3> ALS için detaylı bilgiye eklediğim link üzerinden ulaşabilirisiniz. https://medium.com/radon-dev/als-implicit-collaborative-filtering-5ed653ba39fe <h3>
